@@ -18,6 +18,8 @@ This is a Spring Boot project demonstrating a RESTful API for managing categorie
 - Java Development Kit (JDK): Version 17 or higher.
 - Maven: For building the project.
 - MySQL: For database integration.
+- Spring boot
+- Server: Apache tomcat
 - Postman (optional): For API testing.
 
 
