@@ -31,6 +31,7 @@ This is a Spring Boot project demonstrating a RESTful API for managing categorie
 - spring.jpa.hibernate.ddl-auto=update
 
 #### To connect to a remote MySQL database (example configuration):
-- spring.datasource.url=jdbc:mysql://sql12.freesqldatabase.com:3306/sql12746297
-- spring.datasource.username=sql12746297
-- spring.datasource.password=dAYPqtjudU
+##### Please update the following properties in your application.properties file with your own database
+- spring.datasource.url=jdbc:mysql://<your-host>:<port>/<your-database>
+- spring.datasource.username=<your-username>
+- spring.datasource.password=<your-password>
